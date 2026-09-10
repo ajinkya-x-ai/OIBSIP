@@ -80,12 +80,12 @@ Run all notebook cells from top to bottom.
 
 For the OIBSIP demo video, begin with a **2-second static title card** showing:
 
-- Your Full Name
-- Assigned Track
+- Ajinkya Adsul
+- Assigned Track : Data sci
 - Task Title: Iris Flower Classification
 
 Then demonstrate the completed notebook/project functioning end-to-end.
 
 ## Author
 
-Replace this line with your name before submitting.
+Ajinkya Adsul
