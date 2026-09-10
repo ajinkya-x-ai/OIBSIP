@@ -47,16 +47,6 @@ jupyter notebook "Unemployment Analysis.ipynb"
 
 Make sure `Unemployment in India.csv` remains in the same folder as the notebook.
 
-## Demo Video
-
-For the OIBSIP demo, begin with a clear 2-second static title card showing:
-
-- Your Full Name
-- Assigned Track
-- Task Title: Unemployment Analysis
-
-Then demonstrate the notebook from data loading through the final analysis and visualizations.
-
 ## Author
 
-Replace this line with your name before submitting.
+Ajinkya Adsul
